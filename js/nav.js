@@ -23,7 +23,7 @@ export function renderNav(activePage) {
 
   root.innerHTML = `
     <div class="nav-inner">
-      <a class="nav-logo" href="index.html">Biripel <span>Connection</span></a>
+      <a class="nav-logo" href="index.html">biripel <span>Connection</span></a>
       <div class="nav-links">
         ${links
           .map(
